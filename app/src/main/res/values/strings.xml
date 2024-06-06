@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kyrsach</string>
+    <string name="logo">Gorbachev</string>
+    <string name="hint_user_field">Введите логин</string>
+    <string name="hint_user_password">Введите пароль</string>
+    <string name="main_btn">Узнать задание</string>
+    <string name="start">Запуск программы</string>
+    <string name="no_user_input">Введите текст</string>
+    <string name="user_not_check_quest">Введите логин и пароль, проверьте задание</string>
+</resources>
